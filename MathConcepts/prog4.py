@@ -1,6 +1,6 @@
-a = 125
+a = 5
 b = 3
-k = 4
+k = 2
 count = 0
 prod = 1
 for i in range(1, b+1):
